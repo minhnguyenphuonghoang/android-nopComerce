@@ -3,3 +3,4 @@ test.txt
 test*.*
 *test*.*
 */*.DS_Store
+*.pyc
